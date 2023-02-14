@@ -17,3 +17,5 @@
 - commit: adding a tracking number and message to changes
 - difference (diff): a collection of modifications/additions/deletions to a file
 
+### Repetitions
+- Change 2
