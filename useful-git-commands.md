@@ -6,7 +6,7 @@
 - git clone file-name
 - git status
 - git add file-name
-- git commit "meaningful message"
+- git commit -m "meaningful message"
 - git push origin main
 
 ### Vocabulary
@@ -16,3 +16,4 @@
 - local: local machine
 - commit: adding a tracking number and message to changes
 - difference (diff): a collection of modifications/additions/deletions to a file
+
