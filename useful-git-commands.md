@@ -3,16 +3,15 @@
 ## Learning git and GitHub with Alpha
 
 ### Useful Commands
-- git clone file-name
-- git status
-- git add file-name
-- git commit -m "meaningful message"
-- git push origin main
-- git checkout -b branch-name
-- git branch
-- git pull
-- git checkout
-- git checkout -b
+- $ `git clone file-name`: creates a file
+- $ `git status`: provides useful information regarding current branch, modifications, etc
+- $ `git add file-name`: select files for updates from local
+- $ `git commit -m "meaningful message"`: commits changes to the file
+- $ `git push origin main`: pushes branch updates to GitHub
+- $ `git checkout branch-name`: changes to branch-name
+- $ `git checkout -b branch-name`: creates a new branch and changes to it
+- $ `git branch`: provides information on current branch
+- $ `git pull`: pulls updates from GitHub
 
 ### Vocabulary
 - repository (repo): a named folder
