@@ -16,6 +16,8 @@
 - local: local machine
 - commit: adding a tracking number and message to changes
 - difference (diff): a collection of modifications/additions/deletions to a file
+- markdown (.md): a text-based language used by GitHub
+
 
 ### Repetitions
 - Change 2
