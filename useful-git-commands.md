@@ -9,6 +9,8 @@
 - git commit -m "meaningful message"
 - git push origin main
 - git checkout -b branch-name
+- git branch
+- git pull
 
 ### Vocabulary
 - repository (repo): a named folder
@@ -19,6 +21,8 @@
 - difference (diff): a collection of modifications/additions/deletions to a file
 - markdown (.md): a text-based language used by GitHub
 - branch: a distinct version of the repository
+- push: transfer from local to host
+- pull: transfer from host to local
 
 ### Git Process Notes
 - create repository
