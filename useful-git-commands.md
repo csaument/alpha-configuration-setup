@@ -11,6 +11,8 @@
 - git checkout -b branch-name
 - git branch
 - git pull
+- git checkout
+- git checkout -b
 
 ### Vocabulary
 - repository (repo): a named folder
@@ -21,6 +23,7 @@
 - difference (diff): a collection of modifications/additions/deletions to a file
 - markdown (.md): a text-based language used by GitHub
 - branch: a distinct version of the repository
+- main: the primary branch
 - push: transfer from local to host
 - pull: transfer from host to local
 
@@ -28,8 +31,15 @@
 - create repository
 - add files to repository
 - develop files
+- push updates
+- create branch
+- modify files
+- commit changes to branch
+- test and review updates
+- pull changes to main
+- remove branch
 
-### Notes on branching
+### Notes on Branching
 - protects the operability and functionality of the main branch
 - allows simultaneous editting of branches managed by multiple users
 - allows testing of new functionality before pushing to main
